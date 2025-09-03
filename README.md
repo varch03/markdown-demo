@@ -15,3 +15,6 @@ Markdown is a lightweight markup language used to format text.
 - GitHub Pages
 - Wikis
 - Issues & PRs
+
+- > **Markdown** is _awesome_ 💥
+
