@@ -18,3 +18,10 @@ Markdown is a lightweight markup language used to format text.
 
 - > **Markdown** is _awesome_ 💥
 
+##To-Do
+- [ ] Write project overview
+- [ ] Add installation Steps
+- [ ] Create repository
+- [ ] Build Authentication
+  - [ ] Login Page
+  - [x] Password reset flow 
